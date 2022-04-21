@@ -1,4 +1,23 @@
-body {background-color:tan;}
-h1{color:green;}
+body {background-color:black;
+    font-family: Arial;
+    color: white;
+    padding: 10%;
+    padding-left: 15%;
+    padding-right: 10%;
+}
+h1{color:gray;
+    font-family: verdana;
+}
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 55%;
+    padding: 5%;
+    margin: auto;
+    border-radius: 25px;
+}
+.auxdiv{
+    margin-left: 10%;
+}
 
 
